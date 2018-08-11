@@ -3,3 +3,4 @@ while True:
 	if 'end' in a:
 		break
 print(*a)
+
