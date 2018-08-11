@@ -3,4 +3,5 @@ while True:
 	if 'end' in a:
 		break
 print(*a)
-git the best
+'''git the best
+'''
