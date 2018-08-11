@@ -3,4 +3,4 @@ while True:
 	if 'end' in a:
 		break
 print(*a)
-print('git the best')
+print('git  NOT the best')
